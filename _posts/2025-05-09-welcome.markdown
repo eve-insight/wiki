@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2025-05-09 14:39:27 +0700
+categories: update
+---
+`This wiki is a work in progress.`
+
+## What is EVE Insight?
+Insight provides EVE Online killmail streaming for Discord. Insight can stream personal or corporate killboards, detect supercapitals with a proximity radar, and more! Insight is a Discord bot that can be directly invited to your server to provide your community with killmail streaming and intel in an easy-to-use package.
+
+Insight is completely free and open-source and all code is available on [GitHub](https://github.com/eve-insight/Insight).
+
