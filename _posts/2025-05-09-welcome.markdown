@@ -11,3 +11,18 @@ Insight provides EVE Online killmail streaming for Discord. Insight can stream p
 
 Insight is completely free and open-source and all code is available on [GitHub](https://github.com/eve-insight/Insight).
 
+
+# Feature Overview
+* Entity feeds ideal for personal, corporate, or alliance killboard streaming.
+* Radar feeds ideal for tracking hostile incursions into friendly space, hunting expensive targets within jump range, or detecting capital escalations in real time.
+* Proximity watches ideal for finding potential fleets to fight, tracking hostile fleet movement within your region, or alerting you of nearby hostiles within a few jumps of your base systems.
+* Preconfigured feeds offering custom spins such as: Alliance Tournament system feed, npc officer hunter, AT ship radar, and more!
+* Rich embeds to present mails with color indicating sidebars, hyperlinks, and images.
+* Multiple embed appearance styles varying in size and verbosity.
+* Optional mention system to be alerted of activity in radar feeds.
+* SSO token authentication for allied contact blacklisting in radar feeds.
+* Automatic synchronization of SSO tokens and radar blacklists.
+* Instinctual commands and convenient option dialogs for managing settings.
+* Easy server setup with no hardcoding or confusing configuration.
+* Simultaneous, isolated feeds across multiple servers.
+* Efficient asynchronous design with minimal cpu, memory, disk, and network impact.
