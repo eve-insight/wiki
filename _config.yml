@@ -19,12 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: EVE Insight Wiki
-email: support@cybadmin.ru
+email: ''
 description: >- # this means to ignore newlines until "baseurl:"
   Documentation for EVE Insight - An EVE Online killmail streaming bot for Discord.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://wiki.eveinsight.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: eve-insight
 github_username:  eve-insight
 
 # Build settings
